@@ -18,8 +18,8 @@ It contains java restful web service and javafx client. Both are maven applicati
 
 _To run both applications just:_
 
-build: 'mvn clean install'
+build: `mvn clean install`
 
-run: 'kpi.tef.Main'
+run: `kpi.tef.Main`
 
 default port - 9000
